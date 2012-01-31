@@ -1,0 +1,4 @@
+<transition xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:drawable="@drawable/jog_tab_bar_left_end_confirm_gray" />
+    <item android:drawable="@drawable/jog_tab_bar_left_end_confirm_green" />
+</transition>

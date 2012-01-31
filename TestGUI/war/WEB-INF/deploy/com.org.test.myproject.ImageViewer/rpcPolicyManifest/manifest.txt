@@ -1,0 +1,3 @@
+# Module com.org.test.myproject.ImageViewer
+# RPC service class, partial path of RPC policy file
+com.org.test.myproject.client.TestForServer, 7E987AD036F527F372AD17B33AB4446C.gwt.rpc

@@ -1,0 +1,10 @@
+K 10
+svn:ignore
+V 118
+ArduinoPackets.java
+ArduinoReceiverTest.java
+ArduinoZBTxTest.java
+ArduinoReceiverExample.java
+ArduinoZBTxExample.java
+
+END

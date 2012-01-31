@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/3/trunk/Wiktionary/src/com/example/android/wiktionary
+END
+WordWidget.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/3/trunk/Wiktionary/src/com/example/android/wiktionary/WordWidget.java
+END
+Prefs.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/3/trunk/Wiktionary/src/com/example/android/wiktionary/Prefs.java
+END
+ExtendedWikiHelper.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/3/trunk/Wiktionary/src/com/example/android/wiktionary/ExtendedWikiHelper.java
+END
+LookupActivity.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/3/trunk/Wiktionary/src/com/example/android/wiktionary/LookupActivity.java
+END
+SimpleWikiHelper.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/3/trunk/Wiktionary/src/com/example/android/wiktionary/SimpleWikiHelper.java
+END

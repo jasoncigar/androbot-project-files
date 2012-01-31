@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE web-app
+    PUBLIC "-//Sun Microsystems, Inc.//DTD Web Application 2.3//EN"
+    "http://java.sun.com/dtd/web-app_2_3.dtd">
+
+<web-app>
+
+	<!-- Servlets -->
+	<servlet>
+		<servlet-name>EventServlet</servlet-name>
+		<servlet-class>com.org.video.server.EventListenerServiceImpl</servlet-class>
+	</servlet>
+	<servlet>
+		<servlet-name>VideoServlet</servlet-name>
+		<servlet-class>com.org.video.server.VideoServlet</servlet-class>
+	</servlet>
+	<servlet>
+		<servlet-name>RobotStateServlet</servlet-name>
+		<servlet-class>com.org.video.server.RobotStateServlet</servlet-class>
+	</servlet>
+	
+	<servlet-mapping>
+		<servlet-name>EventServlet</servlet-name>
+		<url-pattern>/videoLayout/event</url-pattern>
+	</servlet-mapping>
+	<servlet-mapping>
+		<servlet-name>VideoServlet</servlet-name>
+		<url-pattern>/video</url-pattern>
+	</servlet-mapping>
+	<servlet-mapping>
+		<servlet-name>RobotStateServlet</servlet-name>
+		<url-pattern>/robotstate</url-pattern>
+	</servlet-mapping>
+	<!-- Default page to serve -->
+	<welcome-file-list>
+		<welcome-file>VideoStreaming.html</welcome-file>
+	</welcome-file-list>
+
+</web-app>

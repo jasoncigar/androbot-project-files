@@ -1,0 +1,18 @@
+K 10
+svn:ignore
+V 149
+bin
+build
+dist
+docs
+XBee.log*
+xbee-api-*.zip
+XBee-API.ipr
+XBee-API.iws
+Xbee-api-google.iml
+xbee-api-google.ipr
+xbee-api-google.iws
+deploy.sh
+target*
+
+END

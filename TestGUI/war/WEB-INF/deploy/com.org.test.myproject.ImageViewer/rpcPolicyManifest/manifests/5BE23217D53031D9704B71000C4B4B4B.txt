@@ -1,0 +1,2 @@
+serviceClass: com.org.test.myproject.client.TestForServer
+path: 7E987AD036F527F372AD17B33AB4446C.gwt.rpc

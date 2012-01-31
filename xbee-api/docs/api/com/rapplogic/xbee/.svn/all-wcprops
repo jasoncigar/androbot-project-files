@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/244/trunk/docs/api/com/rapplogic/xbee
+END
+RxTxSerialEventListener.html
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/244/trunk/docs/api/com/rapplogic/xbee/RxTxSerialEventListener.html
+END
+RxTxSerialComm.html
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/232/trunk/docs/api/com/rapplogic/xbee/RxTxSerialComm.html
+END
+package-frame.html
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/244/trunk/docs/api/com/rapplogic/xbee/package-frame.html
+END
+XBeeConnection.html
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/244/trunk/docs/api/com/rapplogic/xbee/XBeeConnection.html
+END
+package-summary.html
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/244/trunk/docs/api/com/rapplogic/xbee/package-summary.html
+END
+package-tree.html
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/244/trunk/docs/api/com/rapplogic/xbee/package-tree.html
+END
+XBeePin.html
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/232/trunk/docs/api/com/rapplogic/xbee/XBeePin.html
+END
+XBeePin.Capability.html
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/228/trunk/docs/api/com/rapplogic/xbee/XBeePin.Capability.html
+END

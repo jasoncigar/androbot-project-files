@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 23
+/svn/!svn/ver/265/trunk
+END
+rxtxSerial.dll
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/svn/!svn/ver/82/trunk/rxtxSerial.dll
+END
+.classpath
+K 25
+svn:wc:ra_dav:version-url
+V 34
+/svn/!svn/ver/228/trunk/.classpath
+END
+librxtxSerial.jnilib
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/82/trunk/librxtxSerial.jnilib
+END
+.project
+K 25
+svn:wc:ra_dav:version-url
+V 32
+/svn/!svn/ver/160/trunk/.project
+END
+COPYING
+K 25
+svn:wc:ra_dav:version-url
+V 30
+/svn/!svn/ver/82/trunk/COPYING
+END
+log4j.properties
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/235/trunk/log4j.properties
+END
+build.properties
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/!svn/ver/82/trunk/build.properties
+END
+librxtxSerial.so
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/!svn/ver/82/trunk/librxtxSerial.so
+END
+build.xml
+K 25
+svn:wc:ra_dav:version-url
+V 33
+/svn/!svn/ver/250/trunk/build.xml
+END

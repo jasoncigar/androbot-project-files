@@ -1,0 +1,2 @@
+# Module com_org_gwtemail
+# RPC service class, partial path of RPC policy file

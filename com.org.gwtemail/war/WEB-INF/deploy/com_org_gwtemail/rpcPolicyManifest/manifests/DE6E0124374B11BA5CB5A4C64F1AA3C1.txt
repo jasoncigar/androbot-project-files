@@ -1,0 +1,2 @@
+serviceClass: com.org.gwtemail.client.GreetingService
+path: 014BB596338862F9AD389E7C0350C5A8.gwt.rpc

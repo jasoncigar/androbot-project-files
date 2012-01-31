@@ -1,0 +1,3 @@
+# Module mapstest
+# RPC service class, partial path of RPC policy file
+com.org.client.GreetingService, 9A2E542B93A3929A249B799077BBC757.gwt.rpc

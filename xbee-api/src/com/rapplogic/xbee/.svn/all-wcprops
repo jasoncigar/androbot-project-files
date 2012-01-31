@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/265/trunk/src/com/rapplogic/xbee
+END
+RxTxSerialComm.java
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/231/trunk/src/com/rapplogic/xbee/RxTxSerialComm.java
+END
+XBeeConnection.java
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/233/trunk/src/com/rapplogic/xbee/XBeeConnection.java
+END
+XBeePin.java
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/228/trunk/src/com/rapplogic/xbee/XBeePin.java
+END
+RxTxSerialEventListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/228/trunk/src/com/rapplogic/xbee/RxTxSerialEventListener.java
+END

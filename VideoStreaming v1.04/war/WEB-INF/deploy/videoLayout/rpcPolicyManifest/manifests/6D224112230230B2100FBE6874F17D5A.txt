@@ -1,0 +1,2 @@
+serviceClass: com.org.video.client.EventListenerService
+path: 098A08203258DCB7AC33ADEDE19FB360.gwt.rpc

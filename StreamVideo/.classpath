@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="src" path="gen"/>
+	<classpathentry kind="con" path="com.android.ide.eclipse.adt.ANDROID_FRAMEWORK"/>
+	<classpathentry kind="lib" path="/home/jaikumar/Downloads/protobuf-java-2.3.0.jar"/>
+	<classpathentry kind="lib" path="/home/jaikumar/Downloads/protostuff-api-1.0.0.M4.jar"/>
+	<classpathentry kind="lib" path="/home/jaikumar/Downloads/protostuff-1.0.0.zip"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

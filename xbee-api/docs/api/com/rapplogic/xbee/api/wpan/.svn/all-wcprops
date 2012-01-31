@@ -1,0 +1,101 @@
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/232/trunk/docs/api/com/rapplogic/xbee/api/wpan
+END
+TxStatusResponse.html
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/228/trunk/docs/api/com/rapplogic/xbee/api/wpan/TxStatusResponse.html
+END
+TxRequest64.html
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/228/trunk/docs/api/com/rapplogic/xbee/api/wpan/TxRequest64.html
+END
+RxResponse16.html
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/232/trunk/docs/api/com/rapplogic/xbee/api/wpan/RxResponse16.html
+END
+RxResponse64.html
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/228/trunk/docs/api/com/rapplogic/xbee/api/wpan/RxResponse64.html
+END
+package-frame.html
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/229/trunk/docs/api/com/rapplogic/xbee/api/wpan/package-frame.html
+END
+NodeDiscover.html
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/228/trunk/docs/api/com/rapplogic/xbee/api/wpan/NodeDiscover.html
+END
+package-summary.html
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/229/trunk/docs/api/com/rapplogic/xbee/api/wpan/package-summary.html
+END
+package-tree.html
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/232/trunk/docs/api/com/rapplogic/xbee/api/wpan/package-tree.html
+END
+TxRequestBase.html
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/228/trunk/docs/api/com/rapplogic/xbee/api/wpan/TxRequestBase.html
+END
+TxStatusResponse.Status.html
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/228/trunk/docs/api/com/rapplogic/xbee/api/wpan/TxStatusResponse.Status.html
+END
+RxResponseIoSample.html
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/232/trunk/docs/api/com/rapplogic/xbee/api/wpan/RxResponseIoSample.html
+END
+RxBaseResponse.html
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/229/trunk/docs/api/com/rapplogic/xbee/api/wpan/RxBaseResponse.html
+END
+TxRequestBase.Option.html
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/228/trunk/docs/api/com/rapplogic/xbee/api/wpan/TxRequestBase.Option.html
+END
+RxResponse.html
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/228/trunk/docs/api/com/rapplogic/xbee/api/wpan/RxResponse.html
+END
+IoSample.html
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/229/trunk/docs/api/com/rapplogic/xbee/api/wpan/IoSample.html
+END
+TxRequest16.html
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/228/trunk/docs/api/com/rapplogic/xbee/api/wpan/TxRequest16.html
+END
